@@ -1,4 +1,4 @@
 
 # upstream_example
 
-UpStream change something for rebase.
+UpStream change something for rebase commit.
